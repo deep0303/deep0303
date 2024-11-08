@@ -9,7 +9,7 @@ I'm a passionate data enthusiast with a strong foundation in **Data Science**, *
 
 ## 💼 Experience
 - **Software Engineer at Ascentt**  
-  Currently utilizing **Python**, **Power BI**, and **AWS** to generate actionable data insights. Skilled in **Exploratory Data Analysis (EDA)**, **data preprocessing**, **feature engineering**, and **model optimization**.
+  Currently utilizing **Python**,**Web Scrapping**,**Tableau**, **Power BI**,**GenAI** and **AWS** to generate actionable data insights. Skilled in **Exploratory Data Analysis (EDA)**, **data preprocessing**, **feature engineering**, and **model optimization**.
 
 - **Freelancer**  
   Open to freelance opportunities in **data analysis**, **SQL**, **model building**, and **visualization projects**.
