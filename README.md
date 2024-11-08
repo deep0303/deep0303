@@ -5,11 +5,18 @@
 ---
 
 ### 👋 About Me
-I'm a passionate data enthusiast with a strong foundation in Data Science, Machine Learning, and Data Analytics. I enjoy uncovering meaningful insights from complex datasets and turning data into actionable strategies. My journey in data science has led me to explore diverse projects, from predictive modeling to data visualization.
+I'm a passionate data enthusiast with a strong foundation in **Data Science**, **Machine Learning**, and **Data Analytics**. I enjoy uncovering meaningful insights from complex datasets and transforming them into actionable strategies. My journey in data science has led me to explore a wide range of projects, from predictive modeling to data visualization.
 
-💼 Experience: Currently working as a Software Engineer at Ascentt, where I utilize Python, Power BI, and AWS for generating data insights. Proficient in Exploratory Data Analysis (EDA), data preprocessing, feature engineering, and model optimization.
-💻 Freelancing: Open to freelance opportunities, especially in data analysis, SQL, model building, and visualization projects.
-💞️ Looking to Collaborate On: Data-driven projects, predictive modeling, and open-source contributions in analytics and machine learning.
+## 💼 Experience
+- **Software Engineer at Ascentt**  
+  Currently utilizing **Python**, **Power BI**, and **AWS** to generate actionable data insights. Skilled in **Exploratory Data Analysis (EDA)**, **data preprocessing**, **feature engineering**, and **model optimization**.
+
+- **Freelancer**  
+  Open to freelance opportunities in **data analysis**, **SQL**, **model building**, and **visualization projects**.
+
+## 💞️ Looking to Collaborate On
+- Data-driven projects, predictive modeling, and open-source contributions in **analytics** and **machine learning**.
+
 ---
 
 ### 🔗 Connect with Me
